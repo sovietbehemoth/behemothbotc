@@ -2,7 +2,7 @@
 #define false 1
 #define true 0
 
-#define BOT_TOKEN "bhbumk"
+#define BOT_TOKEN "TOKENHERE"
 #define IS_BOT false
 
 #ifdef BOT_TOKEN
